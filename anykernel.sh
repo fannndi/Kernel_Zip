@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Farewell kernel by Farewell
+kernel.string=Farewell Kernel | MIUI - POCO X3/NFC | by Fannndi
 do.devicecheck=1
 do.modules=0
 do.systemless=1
